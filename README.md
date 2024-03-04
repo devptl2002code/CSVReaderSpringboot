@@ -2,8 +2,8 @@
 Creating CSV file reader to read data and save in database
 
 
-# Demo hight and weight csv file from github
-<script src="https://gist.github.com/nstokoe/7d4717e96c21b8ad04ec91f361b000cb.js"></script>
+# Sample 2500 height and weight data
+https://people.sc.fsu.edu/~jburkardt/data/csv/hw_25000.csv
 
 
 # Maven Dependencies
